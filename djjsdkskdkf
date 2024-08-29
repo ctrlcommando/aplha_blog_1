@@ -1,0 +1,36 @@
+=> 
+[[32m#<Article:0x00007071b21ec898[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31masdasdasdasdasdasdasd-edited-again[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mzcsadcsdcascASCascascac123456789-edited-again[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-07-28 07:18:53.601569000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-08-29 05:23:38.961087000 +0000[0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m[32m>[0m,
+ [32m#<Article:0x00007071b27a5dc0[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mTesting new article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mthis is a test description[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-07-28 14:14:04.840352000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-07-28 14:14:04.840352000 +0000[0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m[32m>[0m,
+ [32m#<Article:0x00007071b27a5a00[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mNew Food Recipe [0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mRecipe is:\r\n1. first step\r\n2. second step\r\n3. thir...[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-07-28 14:16:37.089733000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-08-29 05:49:22.291597000 +0000[0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m[32m>[0m,
+ [32m#<Article:0x00007071b27a5780[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mHi my name is prathik[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mI am working at LVBL[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-07-29 04:54:48.811184000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-07-29 04:54:48.811184000 +0000[0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m[32m>[0m,
+ [32m#<Article:0x00007071b27a5640[0m
+  id: [34m[1m13[0m,
+  title: [31m[1m"[0m[31msome title[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31msome description[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-08-29 05:36:58.747809000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-08-29 05:36:58.747809000 +0000[0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m[32m>[0m]
